@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [elk安装以及使用](http://www.taoqin.online/articles/2019/10/31/1572485647330.html)
 * [我在 GitHub 上的开源项目](http://www.taoqin.online/my-github-repos)
 * [世界，你好！](http://www.taoqin.online/hello-solo)
 
