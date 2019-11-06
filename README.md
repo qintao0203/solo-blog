@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [单例模式-Singleton](http://www.taoqin.online/articles/2019/11/05/1572943555619.html)
+* [工厂方法模式-Factory Method](http://www.taoqin.online/articles/2019/11/05/1572941679915.html)
 * [模板方法模式-Template Method](http://www.taoqin.online/articles/2019/11/05/1572925110742.html)
 * [适配器模式-Adapter](http://www.taoqin.online/articles/2019/11/05/1572925086308.html)
 * [迭代器模式-Iterator](http://www.taoqin.online/articles/2019/11/05/1572925030079.html)
