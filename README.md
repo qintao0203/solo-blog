@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [抽象工厂模式-Abstract Factory](http://www.taoqin.online/articles/2019/11/11/1573457626709.html)
+* [建造者模式-Bulidler](http://www.taoqin.online/articles/2019/11/11/1573443521074.html)
+* [原型模式-Prototype](http://www.taoqin.online/articles/2019/11/11/1573439952938.html)
 * [单例模式-Singleton](http://www.taoqin.online/articles/2019/11/05/1572943555619.html)
 * [工厂方法模式-Factory Method](http://www.taoqin.online/articles/2019/11/05/1572941679915.html)
 * [模板方法模式-Template Method](http://www.taoqin.online/articles/2019/11/05/1572925110742.html)
