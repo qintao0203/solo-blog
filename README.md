@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [策略模式-Strategy](http://www.taoqin.online/articles/2019/11/12/1573542432382.html)
+* [桥接模式-Bridge](http://www.taoqin.online/articles/2019/11/11/1573461894480.html)
 * [抽象工厂模式-Abstract Factory](http://www.taoqin.online/articles/2019/11/11/1573457626709.html)
 * [建造者模式-Bulidler](http://www.taoqin.online/articles/2019/11/11/1573443521074.html)
 * [原型模式-Prototype](http://www.taoqin.online/articles/2019/11/11/1573439952938.html)
