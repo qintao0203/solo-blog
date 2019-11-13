@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [装饰器模式-Decorator](http://www.taoqin.online/articles/2019/11/12/1573553893300.html)
+* [组合模式-Composite](http://www.taoqin.online/articles/2019/11/12/1573545532626.html)
 * [策略模式-Strategy](http://www.taoqin.online/articles/2019/11/12/1573542432382.html)
 * [桥接模式-Bridge](http://www.taoqin.online/articles/2019/11/11/1573461894480.html)
 * [抽象工厂模式-Abstract Factory](http://www.taoqin.online/articles/2019/11/11/1573457626709.html)
