@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [责任链模式-Chain of Responsibility](http://www.taoqin.online/articles/2019/11/14/1573725859564.html)
 * [访问者模式-Visitor](http://www.taoqin.online/articles/2019/11/14/1573700483585.html)
 * [装饰器模式-Decorator](http://www.taoqin.online/articles/2019/11/12/1573553893300.html)
 * [组合模式-Composite](http://www.taoqin.online/articles/2019/11/12/1573545532626.html)
